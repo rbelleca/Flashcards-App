@@ -4,7 +4,7 @@
 `TODO://` It's a simple flashcards app.
 
 ### App Walk-though
-<img src="http://recordit.co/REdRCX3HMm" width=200><br>
+<img src="http://g.recordit.co/REdRCX3HMm.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Xcode
