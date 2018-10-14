@@ -1,7 +1,7 @@
 ## The Flash Cards
 
 ### App Description
-`TODO://` It's a simple flashcards app.
+It's a simple flashcards app.
 
 ### App Walk-though
 <img src="http://g.recordit.co/REdRCX3HMm.gif" width=200><br>
